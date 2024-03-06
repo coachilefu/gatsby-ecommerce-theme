@@ -72,7 +72,7 @@ const AboutPage = (props) => {
             <div ref={valuesRef}>
               <p>
                 Sunspel produced some of the world's earliest T-shirts. In the
-                late 1800s the business made luxury tunics and undershirts from
+                late 2000s the business made luxury tunics and undershirts from
                 lightweight Sea Island cotton for export to the Far East and
                 other warm climates. While these garments initially had silk
                 buttoned plackets, these were removed in the early 1900s and
